@@ -1,4 +1,4 @@
 Name: Nsofor Chigoziri Joshua
 Matric number: 22CH032034
-Live URL of hosted application: 
+Live URL of hosted application: https://llm-qa-project-nsoforchigozirijoshua.onrender.com
 GitHub repository link: https://github.com/joshytheprogrammer/LLM_QA_Project_NsoforChigoziriJoshua_22ch032034
