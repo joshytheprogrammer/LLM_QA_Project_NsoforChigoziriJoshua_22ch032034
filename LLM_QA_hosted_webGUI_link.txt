@@ -1,4 +1,4 @@
-Name: Sam Favour
-Matric number: 22CG031951
-Live URL of hosted application: assgignment1.onrender.com
+Name: Nsofor Chigoziri Joshua
+Matric number: 22CH032034
+Live URL of hosted application: 
 GitHub repository link: https://github.com/mxyptlik/assignment1
